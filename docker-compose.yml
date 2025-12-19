@@ -21,10 +21,11 @@ x-common:
     &mail-environment
     MAIL_FROM: "noreply@example.com"
     MAIL_DRIVER: "smtp"
-    MAIL_HOST: "mail"
+    MAIL_HOST: "mai
+    l"
     MAIL_PORT: "1025"
-    MAIL_USERNAME: ""
-    MAIL_PASSWORD: ""
+    MAIL_USERNAME: "ridho123"
+    MAIL_PASSWORD: "Ridho123123"
     MAIL_ENCRYPTION: "true"
 
 #
