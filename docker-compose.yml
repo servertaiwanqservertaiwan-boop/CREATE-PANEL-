@@ -23,8 +23,8 @@ x-common:
     MAIL_DRIVER: "smtp"
     MAIL_HOST: "mail"
     MAIL_PORT: "1025"
-    MAIL_USERNAME: ""
-    MAIL_PASSWORD: ""
+    MAIL_USERNAME: "ridho123"
+    MAIL_PASSWORD: "Ridho123123"
     MAIL_ENCRYPTION: "true"
 
 #
